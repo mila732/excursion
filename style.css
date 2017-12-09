@@ -1,4 +1,33 @@
+body {
+    Background-color:black;
+    text-align: center;
+}
+
 h1 {
-    color:red;
-    font-style:bold;
+    color:white;
+    font-family: verdana;
+    font-size:50px;
+    text-align: center;
+}
+
+a {
+    color:aquamarine;
+    font-size:16px;
+}
+
+.two {
+    font-size:42px;
+    font-weight:300;
+     font-family: verdana;
+}
+
+.three {
+ font-size:21px;
+   color:gray;
+     font-family: verdana;   
+}
+
+p {
+    text-align: right;
+    color:gray;
 }
